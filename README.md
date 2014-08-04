@@ -1,5 +1,12 @@
 ## ReflectURL
 
+Yosemite DP5 adds this feature in Safari 8 natively. 
+![Imgur](http://i.imgur.com/uKZpmQd.png)
+
+This is useless now and will be removed in a few days.
+
+----
+
 ReflectURL is a SIMBL plug-in that makes Safari 8 show the full URL in the address bar.
 
 ### Tested on
